@@ -1,0 +1,13 @@
+# Versions used for the paper results (Python 3.11, CUDA 12, NVIDIA H100).
+jax[cuda12]==0.10.1
+flax==0.12.7
+optax==0.2.8
+numpy==2.4.6
+scipy==1.17.1
+diffrax==0.7.2
+lineax==0.1.1
+equinox==0.13.8
+ott-jax==0.6.0
+POT==0.9.7
+matplotlib==3.10.9
+tqdm==4.69.0
